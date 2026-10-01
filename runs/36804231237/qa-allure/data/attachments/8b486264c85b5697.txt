@@ -1,0 +1,4 @@
+app user creds: manish.wilson561@test.com - pw123
+
+search key:  macbook
+product name:  MacBook Air
