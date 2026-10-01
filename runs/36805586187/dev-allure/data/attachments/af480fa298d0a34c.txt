@@ -1,0 +1,72 @@
+[
+  {
+    id: 8644768,
+    name: 'manish',
+    email: 'pwautomation_1790820515408@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644766,
+    name: 'manish',
+    email: 'pwautomation_1790820416719@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644699,
+    name: 'uday',
+    email: 'automation_1790815244615@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644685,
+    name: 'uday',
+    email: 'automation_1790815184166@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644582,
+    name: 'Agnimitra Khatri Sr.',
+    email: 'khatri_sr_agnimitra@ratke.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8644581,
+    name: 'Chandak Naik IV',
+    email: 'iv_chandak_naik@beer.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8644580,
+    name: 'Sher Joshi I',
+    email: 'sher_joshi_i@fisher.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644579,
+    name: 'Abani Khanna',
+    email: 'abani_khanna@doyle.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8644578,
+    name: 'Lai Arora',
+    email: 'lai_arora@aufderhar-ward.test',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8644577,
+    name: 'Charuchandra Agarwal',
+    email: 'charuchandra_agarwal@raynor-marks.test',
+    gender: 'male',
+    status: 'inactive'
+  }
+] 200
