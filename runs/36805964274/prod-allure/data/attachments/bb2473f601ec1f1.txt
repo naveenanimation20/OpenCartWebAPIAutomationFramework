@@ -1,0 +1,72 @@
+[
+  {
+    id: 8644797,
+    name: 'manish',
+    email: 'pwautomation_1790822088286@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644793,
+    name: 'manish',
+    email: 'pwautomation_1790821994766@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644786,
+    name: 'apiautomation-update',
+    email: 'apiautomation_1790821918832@open.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8644785,
+    name: 'apiautomation',
+    email: 'apiautomation_1790821918826@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644781,
+    name: 'manish',
+    email: 'pwautomation_1790821804737@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644778,
+    name: 'manish',
+    email: 'pwautomation_1790821439904@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644768,
+    name: 'manish',
+    email: 'pwautomation_1790820515408@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644766,
+    name: 'manish',
+    email: 'pwautomation_1790820416719@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644699,
+    name: 'uday',
+    email: 'automation_1790815244615@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8644685,
+    name: 'uday',
+    email: 'automation_1790815184166@open.com',
+    gender: 'male',
+    status: 'active'
+  }
+] 200

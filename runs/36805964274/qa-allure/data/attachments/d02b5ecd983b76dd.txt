@@ -1,0 +1,3 @@
+Auth API Response:  { token: 'dc4868ad66f354d' }
+token ----> dc4868ad66f354d
+Booking ID:  519
