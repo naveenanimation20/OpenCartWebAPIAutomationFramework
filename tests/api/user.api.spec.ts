@@ -13,6 +13,8 @@ let userId: number;
 test.describe.serial('running e2e go rest crud apis tests', () => {
 
 
+
+
     //GET Test:
     test('@smoke @regression GET API - get all users', async ({ apiHelper }) => {
         let response = await apiHelper.get('/public/v2/users', AUTH_HEADER);
@@ -60,4 +62,5 @@ test.describe.serial('running e2e go rest crud apis tests', () => {
 
 
 
-})
+});
+

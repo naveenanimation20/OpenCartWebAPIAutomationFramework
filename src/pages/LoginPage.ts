@@ -16,7 +16,7 @@ export class LoginPage extends BasePage {
         this.emailId = page.getByRole('textbox', { name: 'E-Mail Address' });
         this.password = page.getByRole('textbox', { name: 'Password' });
         this.loginBtn = page.getByRole('button', { name: 'Login' });
-        this.forgottenPasswordLink = page.getByRole('link', { name: 'Forgotten Password' }).first();
+        this.forgottenPasswordLink = page.getByRole('link', { name: 'Forgotten Password123' }).first();
         this.loginErrorMessage = page.locator('.alert.alert-danger.alert-dismissible');
     }
 
@@ -37,6 +37,7 @@ export class LoginPage extends BasePage {
     }
 
     async isInvalidLoginErrorDisplayed(): Promise<boolean> {
+        await this.loginErrorMessage.waitFor({ state: 'visible' });
         return await this.loginErrorMessage.isVisible();
 
     }
