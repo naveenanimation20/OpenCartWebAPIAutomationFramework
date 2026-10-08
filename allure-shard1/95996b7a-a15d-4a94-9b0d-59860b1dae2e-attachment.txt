@@ -1,2 +1,0 @@
-Auth API Response:  { token: 'c09899dbc72e2ff' }
-token ----> c09899dbc72e2ff

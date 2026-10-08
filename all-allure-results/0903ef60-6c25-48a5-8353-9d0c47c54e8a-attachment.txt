@@ -1,3 +1,0 @@
-Auth API Response:  { token: '314fe93d2797bfd' }
-token ----> 314fe93d2797bfd
-Booking ID:  916
