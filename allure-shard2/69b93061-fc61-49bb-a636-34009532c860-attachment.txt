@@ -1,0 +1,2 @@
+app user creds: manish.wilson561@test.com - pw123
+home page headers:  [ 'My Account', 'My Orders', 'My Affiliate Account', 'Newsletter' ]
