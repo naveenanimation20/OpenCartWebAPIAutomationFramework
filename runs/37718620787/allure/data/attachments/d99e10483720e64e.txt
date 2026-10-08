@@ -1,0 +1,3 @@
+Auth API Response:  { token: '38961e4f636ba13' }
+token ----> 38961e4f636ba13
+Booking ID:  2590

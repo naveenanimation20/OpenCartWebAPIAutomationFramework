@@ -1,0 +1,4 @@
+app user creds: manish.wilson561@test.com - pw123
+
+search key:  samsung
+Search Results Count:  2
